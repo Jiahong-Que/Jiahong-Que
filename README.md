@@ -46,9 +46,9 @@
 
 ### Contact Me
 
-- GitHub: [your-github-username](https://github.com/your-github-username)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
-- Email: your.email@example.com
+- GitHub: [Jiahong Que](https://github.com/Jiahong-Que)
+- LinkedIn: [Jiahong Que](https://www.linkedin.com/in/jiahong-que-215428258/)
+- Email: jiahong.que@fb3.fra-uas.de
 
 
 _Always open to collaboration, research discussions, and opportunities in Data Science and Engineering!_ 🚀
