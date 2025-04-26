@@ -17,6 +17,12 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-87CEFA?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-87CEFA?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-87CEFA?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-87CEFA?style=for-the-badge&logo=interpretable&logoColor=white"/>
+<img src="https://img.shields.io/badge/Interpretable%20AI-87CEFA?style=for-the-badge&logo=interpretable&logoColor=white"/>
+<img src="https://img.shields.io/badge/Time%20Series%20Analysis-87CEFA?style=for-the-badge&logo=timescale&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-87CEFA?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neural%20Network-87CEFA?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-87CEFA?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spark-87CEFA?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Airflow-87CEFA?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-87CEFA?style=for-the-badge&logo=apachekafka&logoColor=white"/>
@@ -30,6 +36,7 @@
 
 ### Industrial & Business Application Focus
 
+
 <div align="left">
 
 <img src="https://img.shields.io/badge/Big%20Data%20Analytics-87CEFA?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -40,6 +47,10 @@
 <img src="https://img.shields.io/badge/Explainable%20AI-87CEFA?style=for-the-badge&logo=interpretable&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP%20Applications-87CEFA?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Federated%20Learning-87CEFA?style=for-the-badge&logo=federatedlearning&logoColor=white"/>
+<img src="https://img.shields.io/badge/Air%20Cargo%20Ground%20Operation-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADS--B%20Data%20Analysis-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
+<img src="https://img.shields.io/badge/IATA%20One--Record%20Application-87CEFA?style=for-the-badge&logo=iata&logoColor=white"/>
+<img src="https://img.shields.io/badge/Motion%20Recognition-87CEFA?style=for-the-badge&logo=motionbuilder&logoColor=white"/>
 
 </div>
 
