@@ -42,6 +42,7 @@
 <img src="https://img.shields.io/badge/ADS--B%20Data%20Collection-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
 <img src="https://img.shields.io/badge/ADS--B%20Data%20Analysis-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
 <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-87CEFA?style=for-the-badge&logo=timescale&logoColor=white"/>
+<img src="https://img.shields.io/badge/Time%20Series%20Classification-87CEFA?style=for-the-badge&logo=timescale&logoColor=white"/>
 <img src="https://img.shields.io/badge/Large%20Language%20Models%20for%20Air%20Transportation-87CEFA?style=for-the-badge&logo=timescale&logoColor=white"/>
 
 </div>
