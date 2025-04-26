@@ -51,7 +51,7 @@
 
 <img src="https://img.shields.io/badge/Supply%20Chain%20Optimization-87CEFA?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/Financial%20Risk%20Modeling-87CEFA?style=for-the-badge&logo=finastra&logoColor=white"/>
-<img src="https://img.shields.io/badge/Explainable%20AI-87CEFA?style=for-the-badge&logo=interpretable&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explainable%20and%20Interpretable%20AI-87CEFA?style=for-the-badge&logo=interpretable&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP%20Applications-87CEFA?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Federated%20Learning-87CEFA?style=for-the-badge&logo=federatedlearning&logoColor=white"/>
 <img src="https://img.shields.io/badge/Motion%20Recognition-87CEFA?style=for-the-badge&logo=motionbuilder&logoColor=white"/>
