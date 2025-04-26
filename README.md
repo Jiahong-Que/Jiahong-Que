@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/Python-87CEFA?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-87CEFA?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scala-87CEFA?style=for-the-badge&logo=scala&logoColor=white"/>
+<!--img src="https://img.shields.io/badge/Scala-87CEFA?style=for-the-badge&logo=scala&logoColor=white"/-->
 <img src="https://img.shields.io/badge/Pandas-87CEFA?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-87CEFA?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-87CEFA?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -23,12 +23,12 @@
 <img src="https://img.shields.io/badge/Deep%20Learning-87CEFA?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Neural%20Network-87CEFA?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/CNN-87CEFA?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spark-87CEFA?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-87CEFA?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-87CEFA?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<!--img src="https://img.shields.io/badge/Spark-87CEFA?style=for-the-badge&logo=apachespark&logoColor=white"/-->
+<!--img src="https://img.shields.io/badge/Airflow-87CEFA?style=for-the-badge&logo=apacheairflow&logoColor=white"/-->
+<!--img src="https://img.shields.io/badge/Kafka-87CEFA?style=for-the-badge&logo=apachekafka&logoColor=white"/-->
 <img src="https://img.shields.io/badge/Docker-87CEFA?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-87CEFA?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-87CEFA?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<!--img src="https://img.shields.io/badge/Kubernetes-87CEFA?style=for-the-badge&logo=kubernetes&logoColor=white"/-->
+<!--img src="https://img.shields.io/badge/AWS-87CEFA?style=for-the-badge&logo=amazonaws&logoColor=white"/-->
 <img src="https://img.shields.io/badge/MLflow-87CEFA?style=for-the-badge&logo=mlflow&logoColor=white"/>
 
 </div>
