@@ -1,8 +1,8 @@
 # Welcome to my portfolio! 👋🏻  
 
 - I am a passionate **Data Scientist** and **PhD Candidate** with expertise across machine learning, data engineering, and real-world industrial applications.  
-- This page summarizes my core skills, research directions, and interests. I specialize in designing scalable machine learning systems and data pipelines.  
-- My work bridges the gap between academic research and industrial applications. I am particularly interested in **Explainable AI**, **Big Data Systems**, and **Optimization for Real-World Operations**.
+- This page summarizes my core skills, research directions, and interests. I specialize in designing machine learning systems and data pipelines.  
+- My work bridges the gap between academic research and industrial applications, and I am particularly interested in **Explainable AI**, **Time Series Analysis**, and **Optimization for Real-World Operations**.
 
 
 ### Data Science & Data Engineering Skills
@@ -43,7 +43,6 @@
 <img src="https://img.shields.io/badge/ADS--B%20Data%20Analysis-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
 <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-87CEFA?style=for-the-badge&logo=timescale&logoColor=white"/>
 <img src="https://img.shields.io/badge/Large%20Language%20Models%20for%20Air%20Transportation-87CEFA?style=for-the-badge&logo=timescale&logoColor=white"/>
-Large language models for air transportation
 
 </div>
 
