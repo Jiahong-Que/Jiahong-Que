@@ -33,22 +33,24 @@
 
 </div>
 
+### Academic Research Focus
 
-### Industrial & Business Application Focus
+<img src="https://img.shields.io/badge/Air%20Cargo%20Ground%20Operation-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
+<img src="https://img.shields.io/badge/IATA%20One--Record%20Application-87CEFA?style=for-the-badge&logo=iata&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADS--B%20Data%20Collection-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADS--B%20Data%20Analysis-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
+<img src="https://img.shields.io/badge/Time%20Series%20Forecasting-87CEFA?style=for-the-badge&logo=timescale&logoColor=white"/>
 
+
+### Industrial Application Focus
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Operational%20Research-87CEFA?style=for-the-badge&logo=operationsresearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/IATA%20One--Record%20Application-87CEFA?style=for-the-badge&logo=iata&logoColor=white"/>
-<img src="https://img.shields.io/badge/ADS--B%20Data%20Analysis-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
-<img src="https://img.shields.io/badge/Time%20Series%20Forecasting-87CEFA?style=for-the-badge&logo=timescale&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supply%20Chain%20Optimization-87CEFA?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/Financial%20Risk%20Modeling-87CEFA?style=for-the-badge&logo=finastra&logoColor=white"/>
 <img src="https://img.shields.io/badge/Explainable%20AI-87CEFA?style=for-the-badge&logo=interpretable&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP%20Applications-87CEFA?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Federated%20Learning-87CEFA?style=for-the-badge&logo=federatedlearning&logoColor=white"/>
-<img src="https://img.shields.io/badge/Air%20Cargo%20Ground%20Operation-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
 <img src="https://img.shields.io/badge/Motion%20Recognition-87CEFA?style=for-the-badge&logo=motionbuilder&logoColor=white"/>
 
 </div>
