@@ -35,12 +35,15 @@
 
 ### Academic Research Focus
 
+<div align="left">
+
 <img src="https://img.shields.io/badge/Air%20Cargo%20Ground%20Operation-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
 <img src="https://img.shields.io/badge/IATA%20One--Record%20Application-87CEFA?style=for-the-badge&logo=iata&logoColor=white"/>
 <img src="https://img.shields.io/badge/ADS--B%20Data%20Collection-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
 <img src="https://img.shields.io/badge/ADS--B%20Data%20Analysis-87CEFA?style=for-the-badge&logo=airplane&logoColor=white"/>
 <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-87CEFA?style=for-the-badge&logo=timescale&logoColor=white"/>
 
+</div>
 
 ### Industrial Application Focus
 
