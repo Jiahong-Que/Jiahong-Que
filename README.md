@@ -1,26 +1,11 @@
-# Data Scientist & Data Engineer Portfolio
+# Welcome to my portfolio! 👋🏻  
 
-Welcome to my portfolio! 👋🏻  
-I am a passionate **Data Scientist** and **Data Engineer** with expertise across machine learning, data engineering, and real-world industrial applications.  
-This page summarizes my core skills, research directions, and interests.
-
-
-## 📋 Table of Contents
-
-- [About Me](#about-me)
-- [Data Science & Data Engineering Skills](#data-science--data-engineering-skills)
-- [Industrial & Business Application Focus](#industrial--business-application-focus)
-- [Contact Me](#contact-me)
+- I am a passionate **Data Scientist** and **PhD Candidate** with expertise across machine learning, data engineering, and real-world industrial applications.  
+- This page summarizes my core skills, research directions, and interests. I specialize in designing scalable machine learning systems and data pipelines.  
+- My work bridges the gap between academic research and industrial applications. I am particularly interested in **Explainable AI**, **Big Data Systems**, and **Optimization for Real-World Operations**.
 
 
-## 👨🏻‍💻 About Me
-
-I specialize in designing scalable machine learning systems and data pipelines.  
-My work bridges the gap between academic research and industrial applications.  
-I am particularly interested in **Explainable AI**, **Big Data Systems**, and **Optimization for Real-World Operations**.
-
-
-## 📚 Data Science & Data Engineering Skills
+### Data Science & Data Engineering Skills
 
 <div align="left">
 
@@ -43,7 +28,7 @@ I am particularly interested in **Explainable AI**, **Big Data Systems**, and **
 </div>
 
 
-## 🏭 Industrial & Business Application Focus
+### Industrial & Business Application Focus
 
 <div align="left">
 
@@ -59,7 +44,7 @@ I am particularly interested in **Explainable AI**, **Big Data Systems**, and **
 </div>
 
 
-## 📬 Contact Me
+### Contact Me
 
 - GitHub: [your-github-username](https://github.com/your-github-username)
 - LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
