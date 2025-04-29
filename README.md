@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/Docker-87CEFA?style=for-the-badge&logo=docker&logoColor=white"/>
 <!--img src="https://img.shields.io/badge/Kubernetes-87CEFA?style=for-the-badge&logo=kubernetes&logoColor=white"/-->
 <!--img src="https://img.shields.io/badge/AWS-87CEFA?style=for-the-badge&logo=amazonaws&logoColor=white"/-->
+<img src="https://img.shields.io/badge/CI//CD-87CEFA?style=for-the-badge&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-87CEFA?style=for-the-badge&logo=mlflow&logoColor=white"/>
 
 </div>
